@@ -18,3 +18,7 @@ phpunit.xml
 
 # log files
 tests/logs
+
+# cache files
+cache/
+.history
